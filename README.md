@@ -16,3 +16,4 @@ Assumptions about the data:
 8. We assume the small amount of data we cannot change will not make a difference in the final outcome
 
 Link to the challenge:
+[challenge.py](challenge.py)
